@@ -1,0 +1,1 @@
+Synthetic project note: The demonstration sensor was calibrated on 2026-01-10. This is invented sample data.
